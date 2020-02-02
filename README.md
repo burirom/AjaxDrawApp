@@ -2,10 +2,6 @@
  
 jQueryのAjaxを使ったdrawアプリ
  
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
- 
 # Requirement
  
 phpが動作する環境
